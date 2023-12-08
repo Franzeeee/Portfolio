@@ -34,4 +34,4 @@ A concise Laravel project with instructions for setup.
     php artisan migrate
     ```
 
-Now your project is set up and ready to go! For more detailed instructions or additional setup steps, refer to the project's full documentation.
+Now your project is set up and ready to go! For more detailed instructions or additional setup steps, don't hesitate to DM me.
