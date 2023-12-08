@@ -7,7 +7,7 @@ A concise Laravel project with instructions for setup.
 1. **Clone the repository:**
 
     ```bash
-    [git clone https://github.com/Franzeeee/Portfolio.git]
+    git clone https://github.com/Franzeeee/Portfolio.git
     ```
 
 2. **Navigate to the project directory:**
