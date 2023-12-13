@@ -1,0 +1,36 @@
+#add {
+    background-color: #58b4ff;
+    color: #000;
+}
+.group-control {
+    position: relative;
+}
+.delete,.add {
+    position: absolute;
+    right: 5px;
+    font-size: 1.5rem;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+.delete p{
+    transform: rotate(45deg);
+    color: rgb(255, 87, 87);
+    transform: color .4s ease;
+}
+.delete:hover p{
+    color: red;
+}
+
+#newHobbyGroup {
+    display: flex;
+    align-items: center;
+}
+
+.add {
+    right: 40px;
+    color: #a4faa4;
+    transition: color .4s ease;
+}
+.add:hover {
+    color: #00ff00;
+}

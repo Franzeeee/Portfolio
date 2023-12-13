@@ -1,0 +1,16 @@
+
+header figure:hover img, 
+.content-container:hover p, 
+.section-content .content-text:hover p,
+.hobbies-list:hover li,
+.education-container:hover .education-card
+{
+    filter: blur(2px) brightness(.8);
+}
+.section-content .content-text:hover .edit-button{
+    display: flex;
+}
+    
+.biography-container .content-container:hover .edit-button{
+    display: flex;
+}

@@ -106,3 +106,14 @@ function reattachScrollListener() {
 
 // Attach the handleScroll function to the scroll event
 window.addEventListener('scroll', handleScroll);
+
+ // Get the element with the class 'success'
+ const successElement = document.getElementById('successMessage');
+
+ // Check if the element exists
+ if (successElement) {
+   // Add a timeout to hide the element after 0.5 seconds
+   setTimeout(() => {
+     successElement.style.display = 'none';
+   }, 1500);
+ }
